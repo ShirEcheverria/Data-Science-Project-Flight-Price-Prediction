@@ -1,7 +1,9 @@
 # ✈️ Flight Price Prediction Project: Deep Learning & Clustering
 
 This project demonstrates an end-to-end data science pipeline, applying advanced Machine Learning techniques to forecast dynamic flight prices.
-<img width="735" height="1222" alt="image" src="https://github.com/user-attachments/assets/b64e5a41-fff3-44d2-aa2c-eeede352e80f" />
+
+
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/b64e5a41-fff3-44d2-aa2c-eeede352e80f" />
 
 
 ## ✨ Project Highlights & Key Capabilities
