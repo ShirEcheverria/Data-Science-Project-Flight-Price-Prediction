@@ -3,7 +3,8 @@
 This project demonstrates an end-to-end data science pipeline, applying advanced Machine Learning techniques to forecast dynamic flight prices.
 
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/b64e5a41-fff3-44d2-aa2c-eeede352e80f" />
+      <img width="474" height="600" alt="image" src="https://github.com/user-attachments/assets/f1f3cb5f-0a5d-48f5-a1e6-4c136ecaa7e6" />
+
 
 
 ## ✨ Project Highlights & Key Capabilities
