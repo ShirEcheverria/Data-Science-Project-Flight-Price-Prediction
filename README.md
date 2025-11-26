@@ -26,7 +26,7 @@ This project demonstrates an end-to-end data science pipeline, applying advanced
 
 | Metric | Result | Interpretation |
 | :--- | :--- | :--- |
-| **Model Performance ($R^2$ Score)** | **0.9576** | Demonstrates the model's **strong explanatory power** (95.76%) over price variance. |
+| **Model Performance ($R^2$ Score)** | **0.9576** | The model demonstrates **exceptionally high reliability**, successfully explaining **95.76%** of the variability in flight prices. |
 | **Prediction Error (MAE)** | **6.936** (USD/NIS) | Indicates **high forecast reliability**, as the average prediction error is very low. |
 | **Clustering Insight** | Flights in Cluster 1 were, on average, **270.93** (USD/NIS) more expensive than Cluster 0. | Highlights valuable data segmentation for deeper analysis. |
 
